@@ -1,6 +1,6 @@
 def jogar():
     print("*********************************")
-    print("***Bem vindo ao jogo da Forca!***")
+    print("***BEM VINDO AO JOGO DE FORCA!***")
     print("*********************************")
 
     print("Fim do jogo")
